@@ -3,6 +3,7 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
 
 <h1>Usage</h1>
 npm install
-npm run dev
 
-Go to localhost:3000
+npm start
+
+Go to localhost:8000
